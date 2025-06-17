@@ -36,7 +36,7 @@ Nosso app foi pensado pra você que busca mais praticidade e menos dor de cabeç
 Este aplicativo foi construído com ferramentas modernas e robustas para garantir a melhor experiência:
 
   * **Flutter:** O incrível framework de UI do Google, perfeito para criar apps nativos multiplataforma.
-  * **Dart:** A linguagem de programação do Google otimizada para a criação de aplicativos cliente.\!
+  * **Dart:** A linguagem de programação do Google otimizada para a criação de aplicativos cliente\!
 
 -----
 
